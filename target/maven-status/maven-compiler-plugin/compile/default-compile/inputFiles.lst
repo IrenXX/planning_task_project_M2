@@ -1,1 +1,5 @@
 /Users/hator/IdeaProjects/planning_task_project_M2/src/main/java/ru/kemova/planning_task_project_M2/PlanningTaskProjectM2Application.java
+/Users/hator/IdeaProjects/planning_task_project_M2/src/main/java/ru/kemova/planning_task_project_M2/config/KafkaConsumerConfig.java
+/Users/hator/IdeaProjects/planning_task_project_M2/src/main/java/ru/kemova/planning_task_project_M2/consumer/EmailTaskConsumer.java
+/Users/hator/IdeaProjects/planning_task_project_M2/src/main/java/ru/kemova/planning_task_project_M2/model/EmailMessageTask.java
+/Users/hator/IdeaProjects/planning_task_project_M2/src/main/java/ru/kemova/planning_task_project_M2/services/EmailService.java
